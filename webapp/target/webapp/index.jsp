@@ -1,1 +1,1 @@
-welcome to Jenkins
+welcome to Jenkins Freestyle job type
