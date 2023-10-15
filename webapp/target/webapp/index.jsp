@@ -1,1 +1,1 @@
-welcome to Jenkins declarative uuuuuuuuuuuuuuuuuuuuuu
+welcome to class
