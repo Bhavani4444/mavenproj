@@ -1,1 +1,1 @@
-welcome to Jenkins jenkins 1
+welcome to Jenkins declarative
